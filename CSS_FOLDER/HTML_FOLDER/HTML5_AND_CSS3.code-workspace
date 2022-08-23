@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "..\\COFFEE"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HTML5_AND_CSS3"
+  }
+}
